@@ -70,5 +70,7 @@ public class HavaliIsımYazma{
             k++;
         }
         System.out.println(soyadParca2);
+
+        klavye.close();
     }
 }

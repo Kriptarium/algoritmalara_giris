@@ -58,5 +58,7 @@ public class MayinTarlasi{
             }
         }
         System.err.println("Oyun Bitti! Puanınız: " + puan);
+        
+        klavye.close();
     }
 }
